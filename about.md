@@ -1,21 +1,26 @@
 ---
 layout: page
-title: About Emerald
+title: About Blog
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+This blog is not made for you. It is most definitely not meant to help you. SHEEESH!! Did you really think I am gonna go through the trouble of learning new things every week and write content about it to help you compensate for your lack of motivation? **<u>NO!!!</u>**
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+Now that I have cleared things up it is time to explain why in God's name am I writing this blog. Well, I have told you before that in order to keep on writing this blog I need to learn new things every week. I believe this is what's going to benefit me. Being a lazy person I need a re-inforcement to get things done. The light at the end of the tunnel which I must keep running towards to keep myself alive, if you must say. Along the process if it really benefits you then hurray for me but trust me when I say that it's not meant to help you. 
 
-![Emerald](img/Emerald01.png "Emerald")
+Anyways, all this learning can be really boring. It **<u>WILL</u>** be boring. So to mix things up a lot of memes will show up. Yes you read it right. **MEMES!!!**
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+<a href="https://imgflip.com/i/1fwor6"><img src="https://i.imgflip.com/1fwor6.jpg" title="made at imgflip.com"/></a>
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+### Content
+What I meant with learning new things is not very specific. It can be about new tech, politics, economics or just life. It is true that I will try to keep things related to tech because let's get real, I have no life.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+So to summarize myself, this blog will have two things. They are:
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+1. Some observance made on tech, politics, economics or life.
+2. Dank Memes.
 
-Enjoy!
+Last but not least: Catch me [here](#) if you want to know what deep dark secrets that I hold behind this mask of red-green-blue mixed pixels. 
+
+the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+
+Enjoy! Actually, please **DON'T**
