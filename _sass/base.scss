@@ -18,9 +18,10 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
 
 /*- Base color -*/
 
-$main-color: #008A3C;
+$main-color: #1a237e;
 $background-color: #FDFDFD;
 $text-color: #222222;
+$link-color: #26a69a;
 
 /*- Base settings -*/
 
@@ -37,11 +38,11 @@ html {
 
 /*- Link -*/
 a {
-	color: $main-color;
+	color: $link-color;
 	text-decoration: none;
 	font-weight: 700;
 	&:hover,
 	&:focus {
-		color: darken($main-color, 5%);
+		color: darken($link-color, 5%);
 	}
 }
