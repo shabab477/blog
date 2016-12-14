@@ -1,0 +1,43 @@
+.bg-image-1 {
+	background-color: #8e44ad;
+    height: 350px;
+    width: 100%;
+}
+
+.bg-image-1 {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+
+}
+
+
+.my-face {
+
+    width:250px;
+    border:5px solid #3498db;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+
+}
