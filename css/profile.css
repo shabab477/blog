@@ -40,4 +40,32 @@
     -webkit-border-radius: 500px;
     -moz-border-radius: 500px;
 
+    box-shadow: 15px 15px 20px black;
+
+}
+
+.my-title
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+
+p.my-text
+{
+    font-family: 'Kite One', sans-serif;
+    font-size: 25px;
+    line-height: 140%;
+    margin-top: 7%;
+}
+
+span.my-code
+{
+    font-family: 'Cutive Mono', monospace;
+}
+
+#all-container
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5%;
 }
