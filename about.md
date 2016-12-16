@@ -21,6 +21,4 @@ So to summarize myself, this blog will have two things. They are:
 
 Last but not least: Catch me [here](#) if you want to know what deep dark secrets that I hold behind this mask of red-green-blue mixed pixels. 
 
-the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
 Enjoy! Actually, please **DON'T**
