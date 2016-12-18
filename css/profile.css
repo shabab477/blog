@@ -54,12 +54,16 @@ p.my-text
 {
     font-family: 'Kite One', sans-serif;
     font-size: 25px;
-    line-height: 140%;
+    line-height: 180%;
     margin-top: 7%;
+
 }
 
-span.my-code
+ul
 {
+  float: left;
+  margin-left: 5%;
+  font-family: 'Kite One', sans-serif;
 }
 
 div.all-container
@@ -68,6 +72,18 @@ div.all-container
     margin-right: 20%;
     padding: 5%;
     padding-bottom: 2%;
+
+}
+
+@keyframes text {
+    from {opacity: 0;}
+    to {opacity: 1.0;}
+}
+
+/* The element to apply the animation to */
+p, h1, ul{
+    animation-name: text;
+    animation-duration: 3s;
 }
 
 div#anim-container

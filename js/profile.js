@@ -14,7 +14,7 @@ function changeText()
   }
   else
   {
-    text_elem.innerHTML = "Desktop Apllications.";
+    text_elem.innerHTML = "Desktop Applications.";
   }
 
   changer = (changer + 1) % 3;
