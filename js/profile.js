@@ -22,4 +22,8 @@ function changeText()
   
 }
 
-setInterval(changeText, 6995);
+$(function(){
+
+  $('h1#text-to-change').addClass('my-code').css({"display": "block"});
+  setInterval(changeText, 7000);
+});

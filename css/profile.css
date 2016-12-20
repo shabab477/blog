@@ -47,16 +47,21 @@
 .my-title
 {
     font-family: 'Permanent Marker', cursive;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 p.my-text
 {
     font-family: 'Kite One', sans-serif;
-    font-size: 25px;
+    font-size: 22px;
     line-height: 180%;
     margin-top: 7%;
 
+}
+
+div#like
+{
+  clear: both;
 }
 
 ul
@@ -65,6 +70,7 @@ ul
   margin-left: 5%;
   font-family: 'Kite One', sans-serif;
 }
+
 
 div.all-container
 {
@@ -93,6 +99,13 @@ div#anim-container
 }
 
 /* DEMO-SPECIFIC STYLES */
+
+h1#text-to-change
+{
+  display: none;
+
+}
+
 h1.my-code  {
 
   font-family: 'Cutive Mono', monospace;
