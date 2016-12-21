@@ -1,0 +1,141 @@
+.bg-image-1 {
+	background-color: #8e44ad;
+    height: 350px;
+    width: 100%;
+}
+
+.bg-image-1 {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+
+}
+
+
+.my-face {
+
+    width:250px;
+    border:5px solid #3498db;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+
+    box-shadow: 15px 15px 20px black;
+
+}
+
+.my-title
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+
+p.my-text, footer
+{
+    font-family: 'Kite One', sans-serif;
+    font-size: 22px;
+    line-height: 180%;
+    margin-top: 7%;
+
+}
+
+div#like
+{
+  clear: both;
+}
+
+ul
+{
+  float: left;
+  margin-left: 5%;
+  font-family: 'Kite One', sans-serif;
+}
+
+body > footer
+{
+  background-color: #8e44ad;
+  font-weight: 250%;
+  padding: 10px;
+}
+
+
+div.all-container
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5%;
+    padding-bottom: 2%;
+
+}
+
+@keyframes text {
+    from {opacity: 0;}
+    to {opacity: 1.0;}
+}
+
+/* The element to apply the animation to */
+p, h1, ul{
+    animation-name: text;
+    animation-duration: 3s;
+}
+
+div#anim-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+/* DEMO-SPECIFIC STYLES */
+
+h1#text-to-change
+{
+  display: none;
+
+}
+
+h1.my-code  {
+
+  font-family: 'Cutive Mono', monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  
+  animation: 
+    typing 3.5s steps(45, end) alternate infinite,
+    blink-caret .75s step-end infinite;
+}
+
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
