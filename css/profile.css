@@ -50,7 +50,7 @@
     font-size: 40px;
 }
 
-p.my-text
+p.my-text, footer
 {
     font-family: 'Kite One', sans-serif;
     font-size: 22px;
@@ -69,6 +69,13 @@ ul
   float: left;
   margin-left: 5%;
   font-family: 'Kite One', sans-serif;
+}
+
+body > footer
+{
+  background-color: #8e44ad;
+  font-weight: 250%;
+  padding: 10px;
 }
 
 
