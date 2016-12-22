@@ -44,15 +44,20 @@
 
 }
 
+div.all-container > div
+{
+  margin-top: 20px;
+}
+
 .my-title
 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Kite One', sans-serif;
     font-size: 40px;
 }
 
 p.my-text, footer
 {
-    font-family: 'Kite One', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 22px;
     line-height: 180%;
     margin-top: 7%;
