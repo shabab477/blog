@@ -62,8 +62,9 @@
 	  </div>
 	    
 	    <!-- Footer -->
-	    {% include footer.html %}
-
+      {% if page.title != "404 - Page not found" %}
+	       {% include footer.html %}
+      {% endif %}
 	    <!-- Script -->
       {% include script.html %}
 
