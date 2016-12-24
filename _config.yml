@@ -1,11 +1,14 @@
 # Site settings
 title: Digitally Demused
-description: "I have no idea why I am doing this."
-url: ""
+description: "A blog for tech updates and dank memes."
+url: "https://shabab477.github.io/blog/"
 author:
   name: "Shabab Karim"
   email: "shababkarim93@gmail.com"
-  url: ""
+  url: "https://www.facebook.com/shabab477"
+facebook:
+  app_id: 1204558196300544
+  
 
 # Build settings
 baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
@@ -28,6 +31,7 @@ defaults:
 # Plugins
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Custom variables
 version: "1.1.0"
