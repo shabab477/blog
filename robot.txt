@@ -1,6 +1,4 @@
 User-agent: *
 Disallow: /img/
-Disallow: /js/
-Disallow: /css/
 Disallow: readme.md
 Disallow: license.md
