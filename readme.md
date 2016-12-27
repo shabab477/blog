@@ -10,8 +10,8 @@ Blog will contain my idea of development and what I have learnt over the weeks t
 
 ### Shabab Karim
 
-- Web site: [www.jacoporabolini.com](https://shabab477.github.io/blog/profile.html)
-- Facebook: [+JacopoRabolini](https://www.facebook.com/shabab477)
+- Web site: [shabab477.github.io](https://shabab477.github.io/blog/profile.html)
+- Facebook: [Shabab Karim](https://www.facebook.com/shabab477)
 
 
 
