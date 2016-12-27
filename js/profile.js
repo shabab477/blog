@@ -6,15 +6,15 @@ function changeText()
   console.log(changer);
   if(changer === 0)
   {
-    text_elem.innerHTML = "Android Applications.";
+    text_elem.innerHTML = "Android.";
   }
   else if(changer === 1)
   {
-    text_elem.innerHTML = "Web Applications.";
+    text_elem.innerHTML = "Websites.";
   }
   else
   {
-    text_elem.innerHTML = "Desktop Applications.";
+    text_elem.innerHTML = "Desktop.";
   }
 
   changer = (changer + 1) % 3;
@@ -25,5 +25,5 @@ function changeText()
 $(function(){
 
   $('h1#text-to-change').addClass('my-code').css({"display": "block"});
-  setInterval(changeText, 7000);
+  setInterval(changeText, 4000);
 });

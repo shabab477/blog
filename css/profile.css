@@ -128,7 +128,7 @@ h1.my-code  {
   letter-spacing: .15em; /* Adjust as needed */
   
   animation: 
-    typing 3.5s steps(45, end) alternate infinite,
+    typing 2s steps(35, end) alternate infinite,
     blink-caret .75s step-end infinite;
 }
 
