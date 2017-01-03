@@ -1,7 +1,7 @@
 ---
 title: The Strategy Design Pattern
 description: If you are interested in learning Design Patterns then Strategy Design Pattern is the place to start. It is the simplest and most useful design pattern of all in the series.
-image: img/posts/2016-12-24-death-of-vars/js_vars.jpg
+image: img/posts/2017-01-03-strategy-design-pattern/back.jpg
 comments: true
 ---
 
@@ -140,7 +140,7 @@ Woohooo! Our code works! We made a class User with a payment method. All we have
 
 In the world of software engineering there is this little thing called **CHANGE**. The logic has to change at one time or another. You just can't avoid it. In the User class there is logic for Credit card payment and home payment. What if the client wants a payment method by PayPal. Damn! Now you have to manage three boolean variables and another if block gets added to the **getSalaryPaid()** method. What if after 2 months another way to get paid needs to be added. I can just imagine that smirk on your face vanish while writing this! Hahahaahaaa! Also, it has to be noted that everytime some new payment gateway requirement is given it also adds a level of complexity. Lets keep an eye out for that shall we.
 
- ### What we as a programmer want
+### What we as a programmer want
 
  Based on the previous paragraph which describes how our ass is gonna get spanked due to the clients changing requirement we should now list what we want as a programmer. As a programmer we want our code to:
 
