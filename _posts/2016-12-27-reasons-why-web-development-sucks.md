@@ -1,7 +1,7 @@
 ---
 title: Reasons Why Web Development Sucks
 description: Web Development Sucks! You know it. I know it. Everyone knows it. Just grow the balls to say it does.
-image: img/posts/2016-12-24-death-of-vars/js_vars.jpg
+image: https://shabab477.github.io/blog/img/posts/2016-12-24-death-of-vars/js_vars.jpg
 comments: true
 ---
 

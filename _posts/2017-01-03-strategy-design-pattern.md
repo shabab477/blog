@@ -1,7 +1,7 @@
 ---
 title: The Strategy Design Pattern
 description: If you are interested in learning Design Patterns then Strategy Design Pattern is the place to start. It is the simplest and most useful design pattern of all in the series.
-image: img/posts/2017-01-03-strategy-design-pattern/back.jpg
+image: https://shabab477.github.io/blog/img/posts/2017-01-03-strategy-design-pattern/back.jpg
 comments: true
 ---
 
