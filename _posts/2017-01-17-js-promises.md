@@ -1,9 +1,11 @@
 ---
 title: Javascript Promises
 description: Javascript is single threaded. So one script can be blocked by the other script, which can expose our code to some interesting caveats. Promises gives us a neat solution to all these problems.
-image: https://shabab477.github.io/blog/img/posts/2016-12-24-death-of-vars/js_vars.jpg
+image: https://i.imgflip.com/1http0.jpg
 comments: true
 ---
+
+<img src="https://i.imgflip.com/1http0.jpg" title="confession bear"/>
 
 This is my second post on Javascript. People who know me be like "But I thought you hated Javascript?!". Yes, I still do. I still think javascript is not a well designed  language and I will forever be trashing on functional programming.
 
