@@ -102,7 +102,7 @@ public class MyNodeComparator implements Comparator<Node>{
 
 {% endhighlight %} 
 
-Ok, do you see the problem here? Look at the main method. We had to make an object to pass in to **Arrays.sort** method which gave it the logic to sort the array. Since we are making an object then obviously we need to make a class, here it is ****MyNodeComparator** class. There we override only one method required to provide the logic to sort. **SO MUCH WORK FOR ONLY ONE METHOD!!!!**. 
+Ok, do you see the problem here? Look at the main method. We had to make an object to pass in to **Arrays.sort** method which gave it the logic to sort the array. Since we are making an object then obviously we need to make a class, here it is **MyNodeComparator** class. There we override only one method. The method which provides the logic to sort. **SO MUCH WORK FOR ONLY ONE METHOD!!!!**. 
 
 Sure, we can shorten it out. We don't need to make a class for **Arrays.sort** actually. 
 
