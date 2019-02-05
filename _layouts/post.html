@@ -1,17 +1,12 @@
 ---
 layout: default
-
 ---
 <article id="post-page">
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
-
-		{{ content }}
-		
+		{{ content }}	
 	</div>
-
-
 </article>
 
 <div
@@ -21,16 +16,11 @@ layout: default
   data-show-faces="true">
 </div>
 
-
-<a href="https://www.serverpoint.com/link.cgi?auser=z904wgkskzg"><img src="https://www.serverpoint.com/en/banners/set1/468x60.gif" alt="serverpoint hosting banner" srcset="https://www.serverpoint.com/en/banners/set1/468x60.gif 1x,https://www.serverpoint.com/en/banners/set1/468x60@2x.gif 2x"></a>
-
 <script>
 
   window.fbAsyncInit = function() {
     FB.init({
-
       appId      : '1204558196300544',
-      
       xfbml      : true,
       version    : 'v2.7'
     });
