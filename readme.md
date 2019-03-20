@@ -3,8 +3,8 @@ This is a blog that I will be writing every week for learning purposes or if I c
 
 ![Digitally Demused](/img/logo_top.png "Digitally Demused")
 
-##Contents
-Blog will contain my idea of development and what I have learnt over the weeks that follows. Also, I will be sharing some light hearted stuff here and there. Oh did I see there will be memes? Yeah, there will be memes.
+## Contents
+Blog will contain my idea of development and what I have learnt over the weeks that follows. Also, I will be sharing some light hearted stuff here and there. Oh did I say there will be memes? Yeah, there will be memes.
 
 ## Author of Blog
 
