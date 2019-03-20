@@ -7,6 +7,8 @@ comments: true
 
 With flutter you can build performant cross platform apps without the JavaScript bridge needed for React Native. But as an RN dev should you be committing to Flutter? I will go through the pros and cons one by one.
 
+![Flutter react image](https://www.mindinventory.com/blog/wp-content/uploads/2018/05/Flutter-vs-ReactNative1200.jpg)
+
 ### Pro: You already know whatever there is to know
 
 Flutter is all about nesting `Widget`-s over one another. Each widget represents a logical section of the UI, sound familiar? `Widget`-s are basically what React Devs call `Component`-s. Now there are two types of `Widget`-s, `StatefulWidget` and `StatelessWidget`. `StateLess` widgets are basically components that you know that will not contain any inherent state and will not re-render on parent update. That sounds a lot like `React.PureComponent`. `StateFul` widgets have access to state changing mechanisms. Basically, the UI component changes when the state changes and this change is enabled with the `setState` method. You also have access to lifecycle hooks that all of you are familiar with `React.Component` class. 
