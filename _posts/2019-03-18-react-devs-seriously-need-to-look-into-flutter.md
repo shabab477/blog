@@ -33,6 +33,8 @@ With flutter you don't have to be bounded with the same cookie cutter app templa
 
 ### Con: No web support
 
-A problem with Flutter right now is that there is no web support as of this moment. You can build an awesome Android or iOS app with it but web is something that is still missing. The flutter team is working on [HummingBird](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8) which basically ports the mobile specific flutter code to the web. Releasing a beta version of HummingBird in the year goals for the flutter team. I am hoping to remove this con in the near feature. 
+A problem with Flutter right now is that there is no web support as of this moment. You can build an awesome Android or iOS app with it but web is something that is still missing. The flutter team is working on [HummingBird](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8) which basically ports the mobile specific flutter code to the web. Releasing a beta version of HummingBird is in the year goals for the flutter team. I am hoping to remove this con in the near feature. 
 
-To conclude, in my personal opinion if you have some experience with React and looking to try your hand in cross platform tools then Flutter is the right tool for you. On the other hand, you already have built a relatively large app with React Native and it has 1000+ downloads, in that case I would not suggest rewriting it to Flutter.
+To conclude, in my personal opinion if you have some experience with React and looking to try your hand in cross platform tools then Flutter is the right tool for you. On the other hand, if you already have built a relatively large app with React Native and it has 10000+ downloads or you are an expert RN dev with a lot of RN related work coming your way, then I would suggest to take some time before going into flutter. 
+
+I have this [article](https://shabab477.github.io/blog/how-to-become-a-kickass-flutter-developer-in-less-than-24-hours) on my blog that briefly goes through all the resources that you might need in order to learn Flutter. Do check it out if you want. 
