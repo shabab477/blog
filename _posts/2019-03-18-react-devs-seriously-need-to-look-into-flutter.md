@@ -1,7 +1,7 @@
 ---
 title: React Devs Seriously Need to Look into Flutter
 description: With flutter you can build performant cross platform apps without the JavaScript bridge needed for React Native. But as an React dev should you be committing to Flutter?
-image: https://hackr.io/blog/wp-content/uploads/2018/09/Artboard-%E2%80%93-1@2x-1280x800.png
+image: https://www.mindinventory.com/blog/wp-content/uploads/2018/05/Flutter-vs-ReactNative1200.jpg
 comments: true
 ---
 
